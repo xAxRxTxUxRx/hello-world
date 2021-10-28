@@ -1,2 +1,5 @@
-# hellow-world
-Hi, i'm Artur. It's the best project ever made
+Hi, You all chaps.
+
+I'm Artur
+Russia, Moscow
+Like to code on Java, learn anything about programming
